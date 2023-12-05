@@ -1,0 +1,15 @@
+.elem{
+    
+    border: 1px solid black;
+}
+.Kartyater{
+    display: grid;
+    margin-top: 2.5%;
+    margin-left: 35%;
+    grid-template-columns: repeat(2, 25%);
+    grid-template-rows: repeat(2, 50%);
+    gap: 5px;
+}
+button{
+    margin-bottom: 10px;
+}
